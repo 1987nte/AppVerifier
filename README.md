@@ -1,4 +1,4 @@
-# AppVerifier
+nfshalom19@gmail.com# AppVerifier
 
 AppVerifier is an app signing certificate hash viewer and verifier.\
 It enables you to easily verify that your apps are genuine with others!
